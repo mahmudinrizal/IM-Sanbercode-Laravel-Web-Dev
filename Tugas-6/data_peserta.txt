@@ -1,0 +1,5 @@
+Data Peserta Sanbercode Bootcamp Laravel Web Dev
+1. Nama: Mahmudin Rizal
+2. Email: mrizaltko@gmail.com
+3. Akun Gitlab: mahmudinrizal
+4. Akun Telegram: @mahmdnrizal
